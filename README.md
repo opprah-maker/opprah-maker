@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # Hi, I'm Opprah Manyika
 
@@ -130,7 +130,7 @@ The full individual project dissertation evaluating UK electricity market reform
 
 #### [CFD-Axial-Flow-Fan-Analysis](https://github.com/opprah-maker/CFD-Axial-Flow-Fan-Analysis)
 
-Comprehensive CFD and FSI analysis of a 60mm computer cooling axial-flow fan with 6 NACA 0012 blades. ANSYS Fluent with k-omega SST turbulence, 3D fan simulation, and coupled FSI validation. Optimal blade installation angle 30 deg , delivering 6.34 x 10â»Â³mÂ³/s flow rate and 10.8 Pa pressure rise. FSI maximum von Mises stress 15.2 MPa (safety factor 2.6).
+Comprehensive CFD and FSI analysis of a 60mm computer cooling axial-flow fan with 6 NACA 0012 blades. ANSYS Fluent with k-omega SST turbulence, 3D fan simulation, and coupled FSI validation. Optimal blade installation angle 30 deg , delivering 6.34 x 10⁻³m³/s flow rate and 10.8 Pa pressure rise. FSI maximum von Mises stress 15.2 MPa (safety factor 2.6).
 
 [<img src="https://raw.githubusercontent.com/opprah-maker/CFD-Axial-Flow-Fan-Analysis/main/images/figure-01.png" width="500" alt="Velocity streamlines from ANSYS Fluent"/>](https://github.com/opprah-maker/CFD-Axial-Flow-Fan-Analysis)
 
@@ -174,7 +174,7 @@ CFD optimisation of an elliptical bellmouth inlet for a gas turbine engine. Mass
 
 Transient 2D heat conduction on a square plate solved with the explicit FTCS Finite Difference Method in MATLAB. Validated against the von Neumann stability criterion Delta t <= h^2/(4alpha). Discretisation :
 
-\fracTi,jnâºÂ¹ - Ti,jnDelta t = alpha [\fracTiâ‚Šâ‚,jn - 2Ti,jn + Tiâ‚‹â‚,jnh^2 + \fracTi,jâ‚Šâ‚n - 2Ti,jn + Ti,jâ‚‹â‚nh^2]
+\fracTi,jn⁺¹ - Ti,jnDelta t = alpha [\fracTi₊₁,jn - 2Ti,jn + Ti₋₁,jnh^2 + \fracTi,j₊₁n - 2Ti,jn + Ti,j₋₁nh^2]
 
 [<img src="https://raw.githubusercontent.com/opprah-maker/Heat-Conduction-FDM-Analysis/main/images/figure-09.png" width="500" alt="Steady-state temperature contour"/>](https://github.com/opprah-maker/Heat-Conduction-FDM-Analysis)
 
@@ -241,7 +241,7 @@ equations, and project modals is at **[opprah-maker.github.io](https://opprah-ma
 
 <div align="center">
 
-<sub>University engineering portfolio Â· Aerospace Engineering Â· MATLAB / Octave / ANSYS Fluent / SolidWorks</sub>
+<sub>University engineering portfolio · Aerospace Engineering · MATLAB / Octave / ANSYS Fluent / SolidWorks</sub>
 
 
 
