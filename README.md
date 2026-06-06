@@ -20,6 +20,9 @@ reports as PDFs.
 
 ### [Reforming the UK Energy Market for Sustainable Development: Integrating Renewables, Fair Pricing, and Demand-Side Response](https://github.com/opprah-maker/UK-Energy-Market-Sustainable-Reform)
 
+
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=opprah-maker/UK-Energy-Market-Sustainable-Reform&file=energy_market_scenarios.m)
+
 The full individual project dissertation evaluating UK electricity market reform pathways to Net-Zero. Three policy scenarios (Baseline, Renewable Incentivisation, Demand-Side Response) compared using HRES scenario modelling in MATLAB.
 
 | Metric | Baseline | Renewable Incentivisation | Demand-Side Response |
@@ -52,6 +55,9 @@ The full individual project dissertation evaluating UK electricity market reform
 ## CFD & FSI : Axial-Flow Fan
 
 #### [CFD-Axial-Flow-Fan-Analysis](https://github.com/opprah-maker/CFD-Axial-Flow-Fan-Analysis)
+
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=opprah-maker/CFD-Axial-Flow-Fan-Analysis)
+
 Comprehensive CFD and FSI analysis of a 60mm computer cooling axial-flow fan with 6 NACA 0012 blades. ANSYS Fluent with $k-\omega$ SST turbulence, 3D fan simulation, and coupled FSI validation. Optimal blade installation angle $30°$, delivering $6.34 \times 10^{-3}\,\text{m}^3/\text{s}$ flow rate and 10.8 Pa pressure rise. FSI maximum von Mises stress 15.2 MPa (safety factor 2.6).
 
 [<img src="https://raw.githubusercontent.com/opprah-maker/CFD-Axial-Flow-Fan-Analysis/main/images/figure-01.png" width="400" alt="Velocity streamlines from ANSYS Fluent"/>](https://github.com/opprah-maker/CFD-Axial-Flow-Fan-Analysis)
@@ -63,6 +69,9 @@ Comprehensive CFD and FSI analysis of a 60mm computer cooling axial-flow fan wit
 ## Aircraft Aerodynamics & Design
 
 #### [Aircraft-Aerodynamics-Design](https://github.com/opprah-maker/Aircraft-Aerodynamics-Design)
+
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=opprah-maker/Aircraft-Aerodynamics-Design&file=src/naca0012_analysis.m)
+
 Combined project: experimental aerodynamics of the NACA 0012 aerofoil plus the conceptual sizing of a heavy-lift transport aircraft. Wind-tunnel data ($C_L$, $C_D$ at $-2°$ to $35°$), lift / drag polars, $(L/D)_\text{max} \approx 5.12$ at $\alpha = 4°$, stall onset at $\alpha \approx 16°$, plus the aircraft sizing loop ($W/S = 10{,}980\,\text{N/m}^2$, $T/W = 0.30$, $C_{n_\beta} > 0.004$).
 
 [<img src="https://raw.githubusercontent.com/opprah-maker/Aircraft-Aerodynamics-Design/main/images/aerodynamics/figure-01.png" width="400" alt="NACA 0012 lift curve"/>](https://github.com/opprah-maker/Aircraft-Aerodynamics-Design)
@@ -76,6 +85,9 @@ Combined project: experimental aerodynamics of the NACA 0012 aerofoil plus the c
 ## CFD : Bellmouth Inlet for Gas Turbine
 
 #### [Bellmouth-Inlet-CFD-Gas-Turbine](https://github.com/opprah-maker/Bellmouth-Inlet-CFD-Gas-Turbine)
+
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=opprah-maker/Bellmouth-Inlet-CFD-Gas-Turbine)
+
 CFD optimisation of an elliptical bellmouth inlet for a gas turbine engine. Mass flow rate $\dot{m} = 1.0\,\text{kg/s}$, total-pressure recovery $\eta_p > 0.99$. Validated using the von Kármán integral boundary layer method for adverse pressure gradient flows. Five Fluent contour plots (static, dynamic, total pressure, velocity, wall shear).
 
 [<img src="https://raw.githubusercontent.com/opprah-maker/Bellmouth-Inlet-CFD-Gas-Turbine/main/images/figure-08.png" width="400" alt="Bellmouth inlet pressure contour"/>](https://github.com/opprah-maker/Bellmouth-Inlet-CFD-Gas-Turbine)
@@ -87,6 +99,9 @@ CFD optimisation of an elliptical bellmouth inlet for a gas turbine engine. Mass
 ## Numerical Methods : Heat Conduction FDM
 
 #### [Heat-Conduction-FDM-Analysis](https://github.com/opprah-maker/Heat-Conduction-FDM-Analysis)
+
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=opprah-maker/Heat-Conduction-FDM-Analysis&file=heat_conduction_fdm.m)
+
 Transient 2D heat conduction on a square plate solved with the explicit FTCS Finite Difference Method in MATLAB. Validated against the von Neumann stability criterion $\Delta t \le h^2/(4\alpha)$. Discretisation:
 
 $$\frac{T_{i,j}^{n+1} - T_{i,j}^{n}}{\Delta t} = \alpha \left[\frac{T_{i+1,j}^{n} - 2T_{i,j}^{n} + T_{i-1,j}^{n}}{h^2} + \frac{T_{i,j+1}^{n} - 2T_{i,j}^{n} + T_{i,j-1}^{n}}{h^2}\right]$$
