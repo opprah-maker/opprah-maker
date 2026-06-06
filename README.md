@@ -2,13 +2,13 @@
 
 # Opprah Manyika
 
-**Aerospace Engineering &mdash; Computational Simulation, Numerical Methods, and Systems Design**
+**Aerospace Engineering : Computational Simulation, Numerical Methods, and Systems Design**
 
 Aerospace engineer focused on **computational fluid dynamics**, **fluid-structure interaction**,
 **transient heat transfer**, and **conceptual aircraft design**. Tools: MATLAB, GNU Octave,
 ANSYS Fluent & Mechanical, SolidWorks.
 
-This profile hosts the full university engineering portfolio &mdash; MATLAB scripts, ANSYS
+This profile hosts the full university engineering portfolio : MATLAB scripts, ANSYS
 post-processing, wind-tunnel data, hand-written PDE solvers, and the complete academic
 reports as PDFs.
 
@@ -39,7 +39,7 @@ $k-\\epsilon$ turbulence model, pressure-based steady solver, unstructured tetra
 installation angle $30^\\circ$, tip clearance $< 0.1D$, $+2.1\\%$ efficiency over baseline,
 validated against wind tunnel data within $\\pm 3\\%$.
 
-| `cfd` `ansys-fluent` `fsi` | `axial-fan` `fluid-dynamics` | `finite-element-analysis` `turbulence-modeling` |
+| `cfd` `ansys-fluent` `fsi` | `axial-fan` `fluid-dynamics` | `finite-element-analysis` `turbulence-modelling` |
 
 #### [Bellmouth-Inlet-CFD-Gas-Turbine](https://github.com/opprah-maker/Bellmouth-Inlet-CFD-Gas-Turbine)
 CFD optimisation of an elliptical bellmouth inlet for a gas turbine engine. Mass flow rate
@@ -68,7 +68,7 @@ Baseline, Renewable Incentivisation, and Demand-Side Response (DSR) battery buff
 scenarios. Models an $83.3\\%$ carbon reduction trajectory and a $125\\%$ gain in grid
 resilience via DSR.
 
-| `energy-modeling` `matlab` | `renewable-energy` `grid-resilience` | `policy-modeling` `net-zero` |
+| `energy-modelling` `matlab` | `renewable-energy` `grid-resilience` | `policy-modelling` `net-zero` |
 
 ---
 
