@@ -12,10 +12,10 @@ interaction**, **conceptual aircraft design**, and **energy systems modelling** 
 the Net-Zero transition. Tools: MATLAB, GNU Octave, ANSYS Fluent and Mechanical,
 SolidWorks, LaTeX.
 
-<a href="https://opprah-maker.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-opprah--maker.github.io-1d4e89style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/opprah-manyika"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:opprah.manyika@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-Get%20in%20touch-c0622fstyle=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/opprah-makertab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/opprah-makerstyle=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://opprah-maker.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-opprah--maker.github.io-1d4e89?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/opprah-manyika"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:opprah.manyika@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-Get%20in%20touch-c0622f?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/opprah-makertab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/opprah-maker?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 ---
@@ -24,16 +24,16 @@ SolidWorks, LaTeX.
 
 ### Tech Stack
 
-<img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-Orangestyle=for-the-badge&logo=mathworks&logoColor=white" />
-<img alt="GNU Octave" src="https://img.shields.io/badge/GNU%20Octave-0790C0style=for-the-badge&logo=octave&logoColor=white" />
-<img alt="ANSYS Fluent" src="https://img.shields.io/badge/ANSYS%20Fluent-FFB71Bstyle=for-the-badge&logo=ansys&logoColor=black" />
-<img alt="ANSYS Mechanical" src="https://img.shields.io/badge/ANSYS%20Mechanical-FFB71Bstyle=for-the-badge&logo=ansys&logoColor=black" />
-<img alt="SolidWorks" src="https://img.shields.io/badge/SolidWorks-DA1F26style=for-the-badge&logo=solidworks&logoColor=white" />
-<img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080style=for-the-badge&logo=latex&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/Python-3776ABstyle=for-the-badge&logo=python&logoColor=white" />
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032style=for-the-badge&logo=git&logoColor=white" />
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717style=for-the-badge&logo=github&logoColor=white" />
-<img alt="MATLAB Online" src="https://img.shields.io/badge/Open%20in-MATLAB%20Online-orangestyle=for-the-badge&logo=mathworks&logoColor=white" />
+<img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-Orange?style=for-the-badge&logo=mathworks&logoColor=white" />
+<img alt="GNU Octave" src="https://img.shields.io/badge/GNU%20Octave-0790C0?style=for-the-badge&logo=octave&logoColor=white" />
+<img alt="ANSYS Fluent" src="https://img.shields.io/badge/ANSYS%20Fluent-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" />
+<img alt="ANSYS Mechanical" src="https://img.shields.io/badge/ANSYS%20Mechanical-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" />
+<img alt="SolidWorks" src="https://img.shields.io/badge/SolidWorks-DA1F26?style=for-the-badge&logo=solidworks&logoColor=white" />
+<img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img alt="MATLAB Online" src="https://img.shields.io/badge/Open%20in-MATLAB%20Online-orange?style=for-the-badge&logo=mathworks&logoColor=white" />
 
 </div>
 
@@ -49,18 +49,18 @@ SolidWorks, LaTeX.
 
 <div align="center">
 
-<img alt="Followers" src="https://img.shields.io/github/followers/opprah-makerstyle=flat-square&label=Followers&color=1d4e89" />
-<img alt="Following" src="https://img.shields.io/badge/dynamic/jsonstyle=flat-square&label=Following&color=1d4e89&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fopprah-maker&query=%24.following" />
-<img alt="Public Repos" src="https://img.shields.io/badge/dynamic/jsonstyle=flat-square&label=Public%20Repos&color=1d4e89&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fopprah-maker&query=%24.public_repos" />
-<img alt="Total Stars" src="https://img.shields.io/github/stars/opprah-makerstyle=flat-square&label=Total%20Stars&color=c0622f" />
-<img alt="Gists" src="https://img.shields.io/github/gists/opprah-makerstyle=flat-square&label=Gists&color=2c7a3a" />
+<img alt="Followers" src="https://img.shields.io/github/followers/opprah-maker?style=flat-square&label=Followers&color=1d4e89" />
+<img alt="Following" src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Following&color=1d4e89&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fopprah-maker&query=%24.following" />
+<img alt="Public Repos" src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Public%20Repos&color=1d4e89&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fopprah-maker&query=%24.public_repos" />
+<img alt="Total Stars" src="https://img.shields.io/github/stars/opprah-maker?style=flat-square&label=Total%20Stars&color=c0622f" />
+<img alt="Gists" src="https://img.shields.io/github/gists/opprah-maker?style=flat-square&label=Gists&color=2c7a3a" />
 
 </div>
 
 <div align="center">
 
 <img alt="Profile Views" src="https://komarev.com/ghpvc/username=opprah-maker&color=1d4e89&style=flat-square" />
-<img alt="Stars" src="https://img.shields.io/github/stars/opprah-makerstyle=flat-square&color=c0622f" />
+<img alt="Stars" src="https://img.shields.io/github/stars/opprah-maker?style=flat-square&color=c0622f" />
 
 </div>
 
@@ -110,7 +110,7 @@ A short, plain-English summary of the engineering work in this portfolio, writte
 
 ### [Reforming the UK Energy Market for Sustainable Development: Integrating Renewables, Fair Pricing, and Demand-Side Response](https://github.com/opprah-maker/UK-Energy-Market-Sustainable-Reform)
 
-[![Open in MATLAB Online](https://img.shields.io/badge/Open%20in-MATLAB%20Online-orangestyle=flat-square&logo=mathworks&logoColor=white)](https://matlab.mathworks.com/open/github/v1repo=opprah-maker/opprah-maker&file=energy_market_scenarios.m)
+[![Open in MATLAB Online](https://img.shields.io/badge/Open%20in-MATLAB%20Online-orange?style=flat-square&logo=mathworks&logoColor=white)](https://matlab.mathworks.com/open/github/v1repo=opprah-maker/opprah-maker&file=energy_market_scenarios.m)
 
 The full individual project dissertation evaluating UK electricity market reform pathways to Net-Zero. Three policy scenarios (Baseline, Renewable Incentivisation, Demand-Side Response) compared using HRES scenario modelling in MATLAB.
 
@@ -145,7 +145,7 @@ Comprehensive CFD and FSI analysis of a 60mm computer cooling axial-flow fan wit
 
 #### [Aircraft-Aerodynamics-Design](https://github.com/opprah-maker/Aircraft-Aerodynamics-Design)
 
-[![Open in MATLAB Online](https://img.shields.io/badge/Open%20in-MATLAB%20Online-orangestyle=flat-square&logo=mathworks&logoColor=white)](https://matlab.mathworks.com/open/github/v1repo=opprah-maker/opprah-maker&file=src/naca0012_analysis.m)
+[![Open in MATLAB Online](https://img.shields.io/badge/Open%20in-MATLAB%20Online-orange?style=flat-square&logo=mathworks&logoColor=white)](https://matlab.mathworks.com/open/github/v1repo=opprah-maker/opprah-maker&file=src/naca0012_analysis.m)
 
 Combined project : experimental aerodynamics of the NACA 0012 aerofoil plus the conceptual sizing of a heavy-lift transport aircraft. Wind-tunnel data (CL, CD at -2 deg  to 35 deg ), lift and drag polars, (L/D)_max ~= 5.12 at alpha = 4 deg , stall onset at alpha ~= 16 deg , plus the aircraft sizing loop (W/S = 10,980N/m^2, T/W = 0.30, Cn_beta > 0.004).
 
@@ -173,7 +173,7 @@ CFD optimisation of an elliptical bellmouth inlet for a gas turbine engine. Mass
 
 #### [Heat-Conduction-FDM-Analysis](https://github.com/opprah-maker/Heat-Conduction-FDM-Analysis)
 
-[![Open in MATLAB Online](https://img.shields.io/badge/Open%20in-MATLAB%20Online-orangestyle=flat-square&logo=mathworks&logoColor=white)](https://matlab.mathworks.com/open/github/v1repo=opprah-maker/opprah-maker&file=heat_conduction_fdm.m)
+[![Open in MATLAB Online](https://img.shields.io/badge/Open%20in-MATLAB%20Online-orange?style=flat-square&logo=mathworks&logoColor=white)](https://matlab.mathworks.com/open/github/v1repo=opprah-maker/opprah-maker&file=heat_conduction_fdm.m)
 
 Transient 2D heat conduction on a square plate solved with the explicit FTCS Finite Difference Method in MATLAB. Validated against the von Neumann stability criterion Delta t <= h^2/(4alpha). Discretisation :
 
