@@ -296,3 +296,5 @@ In addition, the underlying engineering science (theoretical aerodynamics, gas-t
 The line between the two chapters is not always sharp: the MATLAB and ANSYS skills were taught, and the Python, Git, HTML/CSS, and 3D skills were self-taught. The portfolio is the visible boundary between the two chapters, and the next chapter (the home-laboratory workflow in Python and Jupyter) is the most interesting one. That is the chapter that is being written in the home laboratory, and the chapter that the next iteration of this portfolio will reflect.
 
 </div>
+
+<!-- cache-bust: 2026-06-06-1455 -->
