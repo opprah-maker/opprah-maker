@@ -79,12 +79,14 @@ SolidWorks, LaTeX.
 
 ## What I Do
 
-- **Computational Fluid Dynamics** : k-omega SST and k-epsilon turbulence, pressure-based steady and transient solvers, mesh sensitivity, yâº control, skewness and orthogonal quality.
-- **Fluid-Structure Interaction** : coupled Fluent and Mechanical workflows, modal analysis, von Mises stress field extraction, safety-factor calculation.
-- **Aerodynamics** : NACA 0012 wind-tunnel data reduction, lift and drag polars, stall onset, boundary layer separation.
-- **Aircraft Conceptual Sizing** : wing loading (W/S), thrust-to-weight (T/W), stability derivatives (Cn_beta, Cm_alpha), vertical tail volume, payload-range, take-off field length.
-- **Numerical Methods** : explicit FTCS finite difference for PDEs, von Neumann stability analysis, convergence history and mesh refinement studies.
-- **Energy Systems Modelling** : HRES scenario design, demand-side response, battery state-of-charge, carbon-pricing trajectories, grid resilience metrics.
+A short, plain-English summary of the engineering work in this portfolio, written so that a non-engineer can follow it. Each item leads with what the topic is, then explains what was actually done with it.
+
+- **Computational Fluid Dynamics (CFD)** : using software to simulate how air or other fluids flow around an object, in place of (or before) building and testing a physical model. The work in this portfolio covers a computer cooling fan and the inlet of a gas turbine, with two turbulence models (k-omega SST and k-epsilon Realisable), pressure-based steady-state solvers, and mesh-quality checks (skewness, orthogonality, near-wall resolution). The output is a picture of how the pressure, velocity, and turbulence vary across the geometry.
+- **Fluid-Structure Interaction (FSI)** : feeding the pressure field from a CFD run back into a structural analysis, so that the deformation caused by the flow can be seen and the stresses inside the structure can be checked. The CFD fan study in this portfolio includes a one-way FSI coupling into ANSYS Mechanical, with a von Mises stress check and a safety-factor calculation on the blade.
+- **Aerodynamics** : measuring the lift and drag of an aerofoil in a wind tunnel, and reducing the raw voltages from the balance and pressure scanner into the standard non-dimensional coefficients (CL, CD) and a drag polar. The NACA 0012 study in this portfolio covers angles of attack from -2 deg to 16 deg, with the data corrected for tunnel blockage and the uncertainty quantified with the Kline-McClintock method.
+- **Aircraft Conceptual Sizing** : the early-stage sizing of a new aircraft on the back of an envelope, using a small number of dominant constraints (wing loading, thrust-to-weight, stability, performance) to converge on a configuration before any detailed design is done. The heavy-lift transport study in this portfolio covers a 25,000 kg payload and 8,000 km range aircraft, with sizing, weight estimation by the Torenbeek method, and a payload-range diagram.
+- **Numerical Methods** : solving partial differential equations (such as the heat equation) on a grid by stepping forward in time, with a stability analysis to ensure the chosen time step is small enough that the solution does not diverge. The heat-conduction study in this portfolio uses the explicit forward-time central-space (FTCS) scheme, with a von Neumann stability check and a mesh-refinement study.
+- **Energy Systems Modelling** : building a simplified model of the electricity grid in code and running it under different policy scenarios to see what happens to the generation mix, the wholesale price, and the CO2 emissions. The dissertation in this portfolio covers three UK decarbonisation scenarios from 2020 to 2050, with a sensitivity analysis on the carbon price, the gas price, and the renewables capital cost.
 
 ---
 
