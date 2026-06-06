@@ -241,4 +241,50 @@ equations, and project modals is at **[opprah-maker.github.io](https://opprah-ma
 
 <sub>University engineering portfolio Â· Aerospace Engineering Â· MATLAB / Octave / ANSYS Fluent / SolidWorks</sub>
 
+
+
+## How I built this portfolio
+
+This section describes the thought process behind the portfolio, the engineering tools that were used to build it, and the distinction between the work that was taught and the work that was self-taught. It is included in the profile so that the same story is available in one place, rather than being repeated in each of the project repositories.
+
+### Thought process
+
+The motivation for putting the portfolio together was twofold. First, the engineering work was scattered across a number of local folders and an ageing laptop, and consolidating it into a single version-controlled repository was a way of making sure that the work would survive a hard-drive failure. Second, the work was, in the main, uni work, and the work that was being done in the home laboratory (Python, Git, GitHub, HTML/CSS, 3D) was not visible to anyone; making it visible on the web was a way of demonstrating that the engineering skills were not the only skills that were being developed.
+
+The decision to publish the portfolio on GitHub was a practical one: GitHub Pages is free, the workflow is well understood, and the Markdown rendering is good enough for technical reports. The decision to use the HTML5 UP Miniport template for the portfolio site was a presentational one: the template is clean, the layout is responsive, and the figure-gallery modals work well for a portfolio of engineering figures.
+
+The choice of project repositories (one per assignment, rather than a single monolithic repository) was deliberate: each project has its own README, its own figures, and its own data, and a single repository would have made the navigation unwieldy. The choice of the figure format (a list of figures with a thumbnail, a caption, and a link to the full-size image) was a usability decision: the figures are the most important output of the work, and a list of figures is the most natural way to browse them.
+
+### Learning outcomes
+
+On completion of the portfolio the following capabilities were demonstrated:
+
+- **Version control with Git and GitHub.** Use of branches, pull requests, issues, and GitHub Actions for continuous deployment of the portfolio site.
+- **Web development with HTML, CSS, and vanilla JavaScript.** Use of a third-party template (HTML5 UP Miniport), modification of the template to suit the project, and use of vanilla JavaScript for the figure-gallery modals.
+- **Data conversion and visualisation.** Conversion of Excel workbooks to CSV with a Python script, plotting of the CSV data with Matplotlib, and publication of the plots as static images and as an interactive HTML page.
+- **Three-dimensional Gaussian splatting.** Reconstruction of three-dimensional models from two-dimensional figure crops using TripoSR, conversion of the reconstructed meshes to the antimatter15 splat format, and hosting of the splat files on GitHub Pages.
+- **Technical writing in Markdown.** Structuring of a multi-section engineering report in GitHub-flavoured Markdown, use of figures and tables to support the narrative, and consistent use of British English throughout.
+
+### Engineering tools: what was taught, what was self-taught
+
+The portfolio is the boundary between the taught chapter of the engineering education and the self-taught chapter of the home laboratory. The two chapters are summarised below.
+
+**Taught during the undergraduate programme (Brunel University, Aerospace Engineering):**
+
+- ANSYS Fluent and ANSYS Mechanical for CFD and FEA.
+- MATLAB and Octave for numerical methods, data analysis, and small optimisation problems.
+- Theoretical aerodynamics, gas-turbine theory, aircraft design, and heat transfer.
+- Wind-tunnel testing of two-dimensional aerofoils.
+- Technical report writing in British English.
+
+**Self-taught after graduation, in the home laboratory:**
+
+- Python (NumPy, SciPy, Matplotlib, Pandas, openpyxl) for data analysis, plotting, and small utilities.
+- Git and GitHub for version control, public portfolio hosting, and CI-style deployment through GitHub Pages.
+- HTML, CSS, and vanilla JavaScript for the portfolio website.
+- Three-dimensional Gaussian splatting using TripoSR and the antimatter15 splat viewer.
+- Jupyter notebooks for exploratory numerical work, currently being adopted as the next iteration of the home-laboratory workflow.
+
+The line between the two chapters is not always sharp: the MATLAB and ANSYS skills were taught, and the Python, Git, HTML/CSS, and 3D skills were self-taught. The portfolio is the visible boundary between the two chapters, and the next chapter (the home-laboratory workflow in Python and Jupyter) is the most interesting one. That is the chapter that is being written in the home laboratory, and the chapter that the next iteration of this portfolio will reflect.
+
 </div>
