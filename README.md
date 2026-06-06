@@ -77,10 +77,10 @@ SolidWorks, LaTeX.
 
 ## What I Do
 
-- **Computational Fluid Dynamics** : $k$-$\omega$ SST and $k$-$\epsilon$ turbulence, pressure-based steady and transient solvers, mesh sensitivity, $y^+$ control, skewness and orthogonal quality.
+- **Computational Fluid Dynamics** : k-omega SST and k-epsilon turbulence, pressure-based steady and transient solvers, mesh sensitivity, y⁺ control, skewness and orthogonal quality.
 - **Fluid-Structure Interaction** : coupled Fluent and Mechanical workflows, modal analysis, von Mises stress field extraction, safety-factor calculation.
 - **Aerodynamics** : NACA 0012 wind-tunnel data reduction, lift and drag polars, stall onset, boundary layer separation.
-- **Aircraft Conceptual Sizing** : wing loading ($W/S$), thrust-to-weight ($T/W$), stability derivatives ($C_{n_\beta}$, $C_{m_\alpha}$), vertical tail volume, payload-range, take-off field length.
+- **Aircraft Conceptual Sizing** : wing loading (W/S), thrust-to-weight (T/W), stability derivatives (Cn_beta, Cm_alpha), vertical tail volume, payload-range, take-off field length.
 - **Numerical Methods** : explicit FTCS finite difference for PDEs, von Neumann stability analysis, convergence history and mesh refinement studies.
 - **Energy Systems Modelling** : HRES scenario design, demand-side response, battery state-of-charge, carbon-pricing trajectories, grid resilience metrics.
 
@@ -103,16 +103,16 @@ SolidWorks, LaTeX.
 
 ### [Reforming the UK Energy Market for Sustainable Development: Integrating Renewables, Fair Pricing, and Demand-Side Response](https://github.com/opprah-maker/UK-Energy-Market-Sustainable-Reform)
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=opprah-maker/UK-Energy-Market-Sustainable-Reform&file=energy_market_scenarios.m)
+[![Open in MATLAB Online](https://img.shields.io/badge/Open%20in-MATLAB%20Online-orange?style=flat-square&logo=mathworks&logoColor=white)](https://matlab.mathworks.com/open/github/v1?repo=opprah-maker/opprah-maker&file=energy_market_scenarios.m)
 
 The full individual project dissertation evaluating UK electricity market reform pathways to Net-Zero. Three policy scenarios (Baseline, Renewable Incentivisation, Demand-Side Response) compared using HRES scenario modelling in MATLAB.
 
 | Metric | Baseline | Renewable Incentivisation | Demand-Side Response |
 |---|---|---|---|
-| Renewable Integration | $15\%$ | $65\%$ | $80\%$ |
-| Carbon Emissions (Mton/yr) | $120$ | $45$ | $20$ |
-| Grid Resilience (1-100) | $40$ | $55$ | $90$ |
-| Consumer Cost Index (1-100) | $85$ | $50$ | $30$ |
+| Renewable Integration | 15\% | 65\% | 80\% |
+| Carbon Emissions (Mton/yr) | 120 | 45 | 20 |
+| Grid Resilience (1-100) | 40 | 55 | 90 |
+| Consumer Cost Index (1-100) | 85 | 50 | 30 |
 
 **Key finding** : DSR delivers an **83.3% carbon reduction** and **125% grid resilience gain** while reducing consumer costs.
 
@@ -126,9 +126,9 @@ The full individual project dissertation evaluating UK electricity market reform
 
 #### [CFD-Axial-Flow-Fan-Analysis](https://github.com/opprah-maker/CFD-Axial-Flow-Fan-Analysis)
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=opprah-maker/CFD-Axial-Flow-Fan-Analysis)
+[![Open in MATLAB Online](https://img.shields.io/badge/Open%20in-MATLAB%20Online-orange?style=flat-square&logo=mathworks&logoColor=white)](https://matlab.mathworks.com/open/github/v1?repo=opprah-maker/opprah-maker&file=src/script.m)
 
-Comprehensive CFD and FSI analysis of a 60mm computer cooling axial-flow fan with 6 NACA 0012 blades. ANSYS Fluent with $k$-$\omega$ SST turbulence, 3D fan simulation, and coupled FSI validation. Optimal blade installation angle $30°$, delivering $6.34 \times 10^{-3}\,\text{m}^3/\text{s}$ flow rate and 10.8 Pa pressure rise. FSI maximum von Mises stress 15.2 MPa (safety factor 2.6).
+Comprehensive CFD and FSI analysis of a 60mm computer cooling axial-flow fan with 6 NACA 0012 blades. ANSYS Fluent with k-omega SST turbulence, 3D fan simulation, and coupled FSI validation. Optimal blade installation angle 30°, delivering 6.34 x 10⁻³m³/s flow rate and 10.8 Pa pressure rise. FSI maximum von Mises stress 15.2 MPa (safety factor 2.6).
 
 [<img src="https://raw.githubusercontent.com/opprah-maker/CFD-Axial-Flow-Fan-Analysis/main/images/figure-01.png" width="500" alt="Velocity streamlines from ANSYS Fluent"/>](https://github.com/opprah-maker/CFD-Axial-Flow-Fan-Analysis)
 
@@ -140,9 +140,9 @@ Comprehensive CFD and FSI analysis of a 60mm computer cooling axial-flow fan wit
 
 #### [Aircraft-Aerodynamics-Design](https://github.com/opprah-maker/Aircraft-Aerodynamics-Design)
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=opprah-maker/Aircraft-Aerodynamics-Design&file=src/naca0012_analysis.m)
+[![Open in MATLAB Online](https://img.shields.io/badge/Open%20in-MATLAB%20Online-orange?style=flat-square&logo=mathworks&logoColor=white)](https://matlab.mathworks.com/open/github/v1?repo=opprah-maker/opprah-maker&file=src/naca0012_analysis.m)
 
-Combined project : experimental aerodynamics of the NACA 0012 aerofoil plus the conceptual sizing of a heavy-lift transport aircraft. Wind-tunnel data ($C_L$, $C_D$ at $-2°$ to $35°$), lift and drag polars, $(L/D)_\text{max} \approx 5.12$ at $\alpha = 4°$, stall onset at $\alpha \approx 16°$, plus the aircraft sizing loop ($W/S = 10{,}980\,\text{N/m}^2$, $T/W = 0.30$, $C_{n_\beta} > 0.004$).
+Combined project : experimental aerodynamics of the NACA 0012 aerofoil plus the conceptual sizing of a heavy-lift transport aircraft. Wind-tunnel data (CL, CD at -2° to 35°), lift and drag polars, (L/D)_max ~= 5.12 at alpha = 4°, stall onset at alpha ~= 16°, plus the aircraft sizing loop (W/S = 10,980N/m², T/W = 0.30, Cn_beta > 0.004).
 
 [<img src="https://raw.githubusercontent.com/opprah-maker/Aircraft-Aerodynamics-Design/main/images/aerodynamics/figure-01.png" width="500" alt="NACA 0012 lift curve"/>](https://github.com/opprah-maker/Aircraft-Aerodynamics-Design)
 
@@ -156,9 +156,9 @@ Combined project : experimental aerodynamics of the NACA 0012 aerofoil plus the 
 
 #### [Bellmouth-Inlet-CFD-Gas-Turbine](https://github.com/opprah-maker/Bellmouth-Inlet-CFD-Gas-Turbine)
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=opprah-maker/Bellmouth-Inlet-CFD-Gas-Turbine)
+[![Open in MATLAB Online](https://img.shields.io/badge/Open%20in-MATLAB%20Online-orange?style=flat-square&logo=mathworks&logoColor=white)](https://matlab.mathworks.com/open/github/v1?repo=opprah-maker/opprah-maker&file=src/script.m)
 
-CFD optimisation of an elliptical bellmouth inlet for a gas turbine engine. Mass flow rate $\dot{m} = 1.0\,\text{kg/s}$, total-pressure recovery $\eta_p > 0.99$. Validated using the von Karman integral boundary layer method for adverse pressure gradient flows. Five Fluent contour plots (static, dynamic, total pressure, velocity, wall shear).
+CFD optimisation of an elliptical bellmouth inlet for a gas turbine engine. Mass flow rate \dotm = 1.0kg/s, total-pressure recovery \etap > 0.99. Validated using the von Karman integral boundary layer method for adverse pressure gradient flows. Five Fluent contour plots (static, dynamic, total pressure, velocity, wall shear).
 
 [<img src="https://raw.githubusercontent.com/opprah-maker/Bellmouth-Inlet-CFD-Gas-Turbine/main/images/figure-08.png" width="500" alt="Bellmouth inlet pressure contour"/>](https://github.com/opprah-maker/Bellmouth-Inlet-CFD-Gas-Turbine)
 
@@ -170,11 +170,11 @@ CFD optimisation of an elliptical bellmouth inlet for a gas turbine engine. Mass
 
 #### [Heat-Conduction-FDM-Analysis](https://github.com/opprah-maker/Heat-Conduction-FDM-Analysis)
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=opprah-maker/Heat-Conduction-FDM-Analysis&file=heat_conduction_fdm.m)
+[![Open in MATLAB Online](https://img.shields.io/badge/Open%20in-MATLAB%20Online-orange?style=flat-square&logo=mathworks&logoColor=white)](https://matlab.mathworks.com/open/github/v1?repo=opprah-maker/opprah-maker&file=heat_conduction_fdm.m)
 
-Transient 2D heat conduction on a square plate solved with the explicit FTCS Finite Difference Method in MATLAB. Validated against the von Neumann stability criterion $\Delta t \le h^2/(4\alpha)$. Discretisation :
+Transient 2D heat conduction on a square plate solved with the explicit FTCS Finite Difference Method in MATLAB. Validated against the von Neumann stability criterion Delta t <= h²/(4alpha). Discretisation :
 
-$$\frac{T_{i,j}^{n+1} - T_{i,j}^{n}}{\Delta t} = \alpha \left[\frac{T_{i+1,j}^{n} - 2T_{i,j}^{n} + T_{i-1,j}^{n}}{h^2} + \frac{T_{i,j+1}^{n} - 2T_{i,j}^{n} + T_{i,j-1}^{n}}{h^2}\right]$$
+\fracTi,jn⁺¹ - Ti,jnDelta t = alpha [\fracTi₊₁,jn - 2Ti,jn + Ti₋₁,jnh² + \fracTi,j₊₁n - 2Ti,jn + Ti,j₋₁nh²]
 
 [<img src="https://raw.githubusercontent.com/opprah-maker/Heat-Conduction-FDM-Analysis/main/images/figure-09.png" width="500" alt="Steady-state temperature contour"/>](https://github.com/opprah-maker/Heat-Conduction-FDM-Analysis)
 
@@ -207,7 +207,7 @@ Nine of the 2D engineering figures across the CFD, Bellmouth, and Aircraft proje
 ### Engineering Simulation and CFD
 | Domain | Tools | Methods |
 |---|---|---|
-| Computational Fluid Dynamics | ANSYS Fluent / Mechanical | $k$-$\omega$ SST turbulence, pressure-based steady solver, mesh sensitivity, skewness and orthogonal quality |
+| Computational Fluid Dynamics | ANSYS Fluent / Mechanical | k-omega SST turbulence, pressure-based steady solver, mesh sensitivity, skewness and orthogonal quality |
 | Fluid-Structure Interaction | ANSYS Mechanical and Fluent | FSI coupling, modal analysis, stress and strain field extraction |
 | Aerodynamics | MATLAB and wind tunnel | Lift and drag polars, boundary layer separation, stall onset |
 | Numerical Methods | MATLAB and GNU Octave | FDM (FTCS, explicit), von Neumann stability, convergence analysis |
