@@ -40,16 +40,16 @@ SolidWorks, LaTeX.
 
 ### GitHub Stats
 
-<a href="https://github.com/opprah-maker"><img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=opprah-maker&theme=default&hide_border=true" /></a>
+<a href="https://github.com/opprah-maker"><img alt="Streak" src="https://streak-stats.vercel.app/?user=opprah-maker&theme=default&hide_border=true" /></a>
 
 </div>
 
 <div align="center">
 
 <img alt="Followers" src="https://img.shields.io/github/followers/opprah-maker?style=flat-square&label=Followers&color=1d4e89" />
-<img alt="Following" src="https://img.shields.io/github/followers/opprah-maker?style=flat-square&label=Following&color=1d4e89" />
+<img alt="Following" src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Following&color=1d4e89&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fopprah-maker&query=%24.following" />
 <img alt="Public Repos" src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Public%20Repos&color=1d4e89&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fopprah-maker&query=%24.public_repos" />
-<img alt="Total Stars" src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Total%20Stars&color=c0622f&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fopprah-maker&query=%24.public_gists" />
+<img alt="Total Stars" src="https://img.shields.io/github/stars/opprah-maker?style=flat-square&label=Total%20Stars&color=c0622f" />
 <img alt="Gists" src="https://img.shields.io/github/gists/opprah-maker?style=flat-square&label=Gists&color=2c7a3a" />
 
 </div>
