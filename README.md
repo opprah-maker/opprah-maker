@@ -112,6 +112,26 @@ $$\frac{T_{i,j}^{n+1} - T_{i,j}^{n}}{\Delta t} = \alpha \left[\frac{T_{i+1,j}^{n
 
 ---
 
+## 3D Gaussian Splat Visualisations
+
+Nine of the 2D engineering figures across the CFD, Bellmouth, and Aircraft projects were also reconstructed as interactive 3D Gaussian splat previews. Inference runs locally with TripoSR (stabilityai/TripoSR, CPU mode, no CUDA toolkit needed) and a custom mesh-to-splat converter using scikit-image marching cubes. Each splat has about 100 000 surface samples.
+
+[Open the full 3D splat gallery at opprah-maker.github.io/#3d](https://opprah-maker.github.io/#3d)
+
+| Splat | Source figure | Source project |
+|---|---|---|
+| Fan rotor assembly | figure 2 | [CFD-Axial-Flow-Fan-Analysis](https://github.com/opprah-maker/CFD-Axial-Flow-Fan-Analysis) |
+| Fan blade wireframe | figure 1 | [CFD-Axial-Flow-Fan-Analysis](https://github.com/opprah-maker/CFD-Axial-Flow-Fan-Analysis) |
+| Bellmouth inlet mesh | figure 3 | [Bellmouth-Inlet-CFD-Gas-Turbine](https://github.com/opprah-maker/Bellmouth-Inlet-CFD-Gas-Turbine) |
+| Bellmouth pressure field | figure 8 | [Bellmouth-Inlet-CFD-Gas-Turbine](https://github.com/opprah-maker/Bellmouth-Inlet-CFD-Gas-Turbine) |
+| Bellmouth mesh refinement | figure 2 | [Bellmouth-Inlet-CFD-Gas-Turbine](https://github.com/opprah-maker/Bellmouth-Inlet-CFD-Gas-Turbine) |
+| Bellmouth wall shear | figure 6 | [Bellmouth-Inlet-CFD-Gas-Turbine](https://github.com/opprah-maker/Bellmouth-Inlet-CFD-Gas-Turbine) |
+| Heavy-lift aircraft 3-view | figures 21, 24, 26 | [Aircraft-Aerodynamics-Design](https://github.com/opprah-maker/Aircraft-Aerodynamics-Design) |
+
+| `gaussian-splatting` `3d-reconstruction` | `triposr` `image-to-3d` | `marching-cubes` `cpu-inference` |
+
+---
+
 ## Core Competencies
 
 ### Engineering Simulation & CFD
