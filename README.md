@@ -271,13 +271,19 @@ On completion of the portfolio the following capabilities were demonstrated:
 
 The portfolio is the boundary between the taught chapter of the engineering education and the self-taught chapter of the home laboratory. The two chapters are summarised below.
 
-**Taught during the undergraduate programme (Wrexham University, BEng Aeronautical and Mechanical Engineering):**
+**Taught during the undergraduate programme (Wrexham University, BEng Aeronautical and Mechanical Engineering, 2016 to 2020):** the portfolio draws on a small number of specific modules and assignments. The mapping is roughly as follows.
 
-- ANSYS Fluent and ANSYS Mechanical for CFD and FEA.
-- MATLAB and Octave for numerical methods, data analysis, and small optimisation problems.
-- Theoretical aerodynamics, gas-turbine theory, aircraft design, and heat transfer.
-- Wind-tunnel testing of two-dimensional aerofoils.
-- Technical report writing in British English.
+- **ENG 687 (Aerodynamics assignment).** The NACA 0012 wind-tunnel brief is the source of the `naca0012_analysis.m` script and the lift / drag / polar plots in the Aircraft repo. The data-reduction pipeline (raw balance voltages to CL, CD) and the pressure-coefficient calculations on the aerofoil surface come from that assignment.
+- **ENG 60K (Aircraft Stability, Control, and Design).** The constraint-analysis method (matching the AOP at the design point, then sweeping the empty-weight fraction to get a feasible region, then sizing the control surfaces) is from this module. The `aircraft_sizing.m` script in the Aircraft repo is a direct product of that assignment.
+- **The CFD module (Mechanical Engineering Modelling and Simulation, module leader Jhon Paul Roque MRAeS).** The ANSYS Workbench workflow (SpaceClaim geometry to Fluent meshing to Fluent solution to CFD-Post visualisation to ANSYS Mechanical for FEA) and the two-way System Coupling between Fluent and Mechanical. The residual-plot conventions and the mesh-independence procedure are also from that module. The CFD repo is a write-up of that assignment.
+- **ENG6AG (final-year dissertation).** The UK energy-market project, the citation style, the scenario-comparison table, and the viva defence all come from this module. The report in the UK-Energy repo is a write-up of that dissertation.
+- **The Bellmouth project.** An earlier individual project. The cover page of the source DOCX reads 'University of South Wales'; the Bellmouth source predates the Wrexham BEng, and the project was carried over into the portfolio as the Bellmouth repo.
+
+In addition, the underlying engineering science (theoretical aerodynamics, gas-turbine theory, heat transfer, ODEs and PDEs, numerical methods) was covered across the BEng; the MATLAB scripts and the analytical-versus-numerical comparisons in the portfolio draw on that background.
+
+
+
+
 
 **Self-taught after graduation, in the home laboratory:**
 
