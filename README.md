@@ -130,7 +130,7 @@ The full individual project dissertation evaluating UK electricity market reform
 
 #### [CFD-Axial-Flow-Fan-Analysis](https://github.com/opprah-maker/CFD-Axial-Flow-Fan-Analysis)
 
-Comprehensive CFD and FSI analysis of a 60mm computer cooling axial-flow fan with 6 NACA 0012 blades. ANSYS Fluent with k-omega SST turbulence, 3D fan simulation, and coupled FSI validation. Optimal blade installation angle 30Â°, delivering 6.34 x 10â»Â³mÂ³/s flow rate and 10.8 Pa pressure rise. FSI maximum von Mises stress 15.2 MPa (safety factor 2.6).
+Comprehensive CFD and FSI analysis of a 60mm computer cooling axial-flow fan with 6 NACA 0012 blades. ANSYS Fluent with k-omega SST turbulence, 3D fan simulation, and coupled FSI validation. Optimal blade installation angle 30 deg , delivering 6.34 x 10â»Â³mÂ³/s flow rate and 10.8 Pa pressure rise. FSI maximum von Mises stress 15.2 MPa (safety factor 2.6).
 
 [<img src="https://raw.githubusercontent.com/opprah-maker/CFD-Axial-Flow-Fan-Analysis/main/images/figure-01.png" width="500" alt="Velocity streamlines from ANSYS Fluent"/>](https://github.com/opprah-maker/CFD-Axial-Flow-Fan-Analysis)
 
@@ -144,7 +144,7 @@ Comprehensive CFD and FSI analysis of a 60mm computer cooling axial-flow fan wit
 
 [![Open in MATLAB Online](https://img.shields.io/badge/Open%20in-MATLAB%20Online-orange?style=flat-square&logo=mathworks&logoColor=white)](https://matlab.mathworks.com/open/github/v1?repo=opprah-maker/opprah-maker&file=src/naca0012_analysis.m)
 
-Combined project : experimental aerodynamics of the NACA 0012 aerofoil plus the conceptual sizing of a heavy-lift transport aircraft. Wind-tunnel data (CL, CD at -2Â° to 35Â°), lift and drag polars, (L/D)_max ~= 5.12 at alpha = 4Â°, stall onset at alpha ~= 16Â°, plus the aircraft sizing loop (W/S = 10,980N/mÂ², T/W = 0.30, Cn_beta > 0.004).
+Combined project : experimental aerodynamics of the NACA 0012 aerofoil plus the conceptual sizing of a heavy-lift transport aircraft. Wind-tunnel data (CL, CD at -2 deg  to 35 deg ), lift and drag polars, (L/D)_max ~= 5.12 at alpha = 4 deg , stall onset at alpha ~= 16 deg , plus the aircraft sizing loop (W/S = 10,980N/m^2, T/W = 0.30, Cn_beta > 0.004).
 
 [<img src="https://raw.githubusercontent.com/opprah-maker/Aircraft-Aerodynamics-Design/main/images/aerodynamics/figure-01.png" width="500" alt="NACA 0012 lift curve"/>](https://github.com/opprah-maker/Aircraft-Aerodynamics-Design)
 
@@ -172,9 +172,9 @@ CFD optimisation of an elliptical bellmouth inlet for a gas turbine engine. Mass
 
 [![Open in MATLAB Online](https://img.shields.io/badge/Open%20in-MATLAB%20Online-orange?style=flat-square&logo=mathworks&logoColor=white)](https://matlab.mathworks.com/open/github/v1?repo=opprah-maker/opprah-maker&file=heat_conduction_fdm.m)
 
-Transient 2D heat conduction on a square plate solved with the explicit FTCS Finite Difference Method in MATLAB. Validated against the von Neumann stability criterion Delta t <= hÂ²/(4alpha). Discretisation :
+Transient 2D heat conduction on a square plate solved with the explicit FTCS Finite Difference Method in MATLAB. Validated against the von Neumann stability criterion Delta t <= h^2/(4alpha). Discretisation :
 
-\fracTi,jnâºÂ¹ - Ti,jnDelta t = alpha [\fracTiâ‚Šâ‚,jn - 2Ti,jn + Tiâ‚‹â‚,jnhÂ² + \fracTi,jâ‚Šâ‚n - 2Ti,jn + Ti,jâ‚‹â‚nhÂ²]
+\fracTi,jnâºÂ¹ - Ti,jnDelta t = alpha [\fracTiâ‚Šâ‚,jn - 2Ti,jn + Tiâ‚‹â‚,jnh^2 + \fracTi,jâ‚Šâ‚n - 2Ti,jn + Ti,jâ‚‹â‚nh^2]
 
 [<img src="https://raw.githubusercontent.com/opprah-maker/Heat-Conduction-FDM-Analysis/main/images/figure-09.png" width="500" alt="Steady-state temperature contour"/>](https://github.com/opprah-maker/Heat-Conduction-FDM-Analysis)
 
@@ -271,7 +271,7 @@ On completion of the portfolio the following capabilities were demonstrated:
 
 The portfolio is the boundary between the taught chapter of the engineering education and the self-taught chapter of the home laboratory. The two chapters are summarised below.
 
-**Taught during the undergraduate programme (Brunel University, Aerospace Engineering):**
+**Taught during the undergraduate programme (Wrexham University, BEng Aeronautical and Mechanical Engineering):**
 
 - ANSYS Fluent and ANSYS Mechanical for CFD and FEA.
 - MATLAB and Octave for numerical methods, data analysis, and small optimisation problems.
