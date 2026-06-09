@@ -7,7 +7,7 @@
 
 **Aeronautical and Mechanical Engineering : CFD, FSI, Aerodynamics, Numerical Methods, and Energy Systems**
 
-Aerospace engineer specialising in **computational fluid dynamics**, **fluid-structure
+Aeronautical and Mechanical engineer specialising in **computational fluid dynamics**, **fluid-structure
 interaction**, **conceptual aircraft design**, and **energy systems modelling** for
 the Net-Zero transition. Tools: MATLAB, GNU Octave, ANSYS Fluent and Mechanical,
 SolidWorks, LaTeX.
@@ -70,7 +70,7 @@ SolidWorks, LaTeX.
 
 | | |
 |---|---|
-| **Degree** | BEng / MEng Aerospace Engineering (in progress) |
+| **Degree** | BEng / Aeronautical and Mechanical ineering|
 | **Core strengths** | CFD (ANSYS Fluent), FSI (ANSYS Mechanical), aerodynamics, numerical methods, energy systems modelling, conceptual aircraft design |
 | **Languages** | MATLAB, GNU Octave, Python, FORTRAN (basic), LaTeX |
 | **CAE tools** | ANSYS Fluent, ANSYS Mechanical, ANSYS DesignModeler, SpaceClaim |
@@ -216,7 +216,7 @@ Nine of the 2D engineering figures across the CFD, Bellmouth, and Aircraft proje
 | Numerical Methods | MATLAB and GNU Octave | FDM (FTCS, explicit), von Neumann stability, convergence analysis |
 | CAD and Design | SolidWorks, ANSYS DesignModeler, SpaceClaim | Aerodynamic surfacing, mechanical layout, geometry clean-up |
 
-### Aerospace Systems and Policy
+### Engineering Systems and Policy
 | Domain | Methods |
 |---|---|
 | Aircraft Conceptual Design | Wing loading, thrust-to-weight, stability derivatives, vertical tail volume |
