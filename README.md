@@ -5,7 +5,7 @@
 <!-- Last refreshed: 2026-06-06 -->
 
 
-**Aerospace Engineering : CFD, FSI, Aerodynamics, Numerical Methods, and Energy Systems**
+**Aeronautical and Mechanical Engineering : CFD, FSI, Aerodynamics, Numerical Methods, and Energy Systems**
 
 Aerospace engineer specialising in **computational fluid dynamics**, **fluid-structure
 interaction**, **conceptual aircraft design**, and **energy systems modelling** for
